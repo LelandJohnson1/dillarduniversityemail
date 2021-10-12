@@ -1,0 +1,215 @@
+
+
+
+body {
+    margin: 0;
+    
+}
+
+
+
+
+
+
+#text_right {    
+position:relative;
+top:75px;
+width:1500px;
+width:6000px;
+
+
+
+}
+
+#main-image{ float:left; 
+    position:relative;
+
+
+
+
+
+}
+
+
+
+#bottom-right{ 
+
+
+position:relative;
+top:30px; 
+
+
+}
+
+
+h1{ font-family: sans-serif;
+
+font-weight:13;
+position:relative;
+right:6px;
+
+
+}
+
+
+
+
+
+h2{ font-family: sans-serif;
+
+font-weight:100;
+
+
+
+
+
+}
+
+span{ font-size: 1.1em; color: darkblue
+
+
+
+
+}
+
+
+#bottom-right p{font-size: 2.0em;
+
+position:relative;
+bottom:48px;
+font-family: sans-serif;
+font-weight: 100; 
+}
+
+
+#t1{
+position:relative;
+bottom:25px;
+font-size:1.2em;
+
+
+}
+
+.win{ height:10px;
+
+
+
+}
+
+
+
+#lower-half{ 
+height:150px;
+
+position: relative;
+
+
+width:1000px;
+    
+    margin-left:-93px 
+}
+
+
+#top{
+
+
+ position: relative;
+
+left:-140px;
+
+
+}
+
+#im{
+position: relative;
+width:300px;
+	height: 70px;
+	transform: skew(20deg);
+	background: darkblue;
+
+
+}
+
+
+#winner{ 
+position: relative;
+
+bottom:398px;
+left:400px;
+
+font-size: 3.0em;
+color:darkblue
+}
+
+.fa-facebook {
+background: darkblue;
+color:white ;
+outline-style:solid;
+}
+
+.fa-twitter {
+background: darkblue;
+color: white;
+outline-style:solid;
+}
+
+.fa-instagram {
+background: darkblue;
+color: white;
+outline-style:solid;
+
+}
+
+.fa {
+
+font-size: 30px;
+width: 50px;
+text-align: center;
+text-decoration: none;
+border-radius:10%;
+padding:3px;
+
+
+}
+
+a{
+text-decoration: none;
+color: black;
+
+}
+
+#all{ position: relative;
+left:200px;
+    
+
+}
+
+#bottom_leftside { 
+    
+   padding-top: 50px;
+    padding-right: 400px;
+    
+    
+    
+    
+}
+
+#bottom_rightside { 
+    
+   
+    padding-top: 280px;
+    
+    
+    
+}
+
+
+
+#bottom_leftside p{
+
+font-size: 1.9em;
+    transform: skew(-19deg);
+    color:white;
+    padding-top: 20px;
+    padding-left: 50px;
+}
